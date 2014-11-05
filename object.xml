@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="0.10.0" PGFVersion="0.19" title="X-Odus">
+  <tags />
+  <resolutionIndependence>1</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>7</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id970459" />
+    <actor id="id840171" />
+    <actor id="id357998" />
+    <actor id="id746284" />
+    <actor id="id269198" />
+    <actor id="id625040" />
+    <actor id="id478520" />
+    <actor id="id957799" />
+    <actor id="id881973" />
+    <actor id="id971855" />
+    <actor id="id796180" />
+    <actor id="id768665" />
+    <actor id="id337996" />
+    <actor id="id736627" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id294879" />
+    <scene id="id643272" />
+    <scene id="id885113" />
+    <scene id="id284181" />
+    <scene id="id146811" />
+    <scene id="id969298" />
+    <scene id="id205430" />
+  </scenes>
+  <attributes>
+    <text id="name">default name</text>
+    <real id="time">0</real>
+    <size id="displaySize">
+      <real id="width">480</real>
+      <real id="height">200</real>
+    </size>
+    <text id="actorTags">All	Enemies</text>
+  </attributes>
+</game>
